@@ -189,7 +189,7 @@ p{
 
 /* Hero Section */
 #hero{
-    background-image: url(/img/walpaper.jpg);
+    background-image: url(./img/walpaper.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
